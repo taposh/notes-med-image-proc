@@ -1,5 +1,3 @@
-#Readme
-
 These are the files accompanying the book "Notes on Medical Image Processing with Deep Learning: A workbook for learners" 
 https://www.amazon.com/Notes-Medical-Image-Processing-Learning-ebook/dp/B08L25MRK4/
 
